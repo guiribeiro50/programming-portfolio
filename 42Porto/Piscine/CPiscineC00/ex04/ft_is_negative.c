@@ -22,3 +22,10 @@ void	ft_is_negative(int n)
 		sinal = 'P';
 	write(1, &sinal, 1);
 }
+/*
+int	main(void)
+{
+	ft_is_negative(-1);
+	ft_is_negative(0);
+	ft_is_negative(1);
+}*/

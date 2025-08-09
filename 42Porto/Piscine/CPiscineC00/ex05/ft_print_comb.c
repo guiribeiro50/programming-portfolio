@@ -12,7 +12,7 @@
 
 #include <unistd.h>
 
-static void	print_comb_line(int i, int j, int k)
+void	print_comb_line(int i, int j, int k)
 {
 	char	string[5];
 
@@ -52,3 +52,8 @@ void	ft_print_comb(void)
 		i++;
 	}
 }
+/*
+int	main(void)
+{
+	ft_print_comb();
+}*/
