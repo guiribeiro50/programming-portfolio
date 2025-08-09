@@ -1,50 +1,49 @@
-# Exercício 01
+# Exercise 01
 
-## Descrição
+## Description
 
-Este exercício consiste em criar um ficheiro com permissões específicas que reproduza um resultado particular quando listado com o comando `ls -l`.
+This exercise consists of creating a file with specific permissions that reproduces a particular result when listed with the `ls -l` command.
 
-## Objectivo
+## Objective
 
-Criar um ficheiro chamado `testShell00` no directório de submissão que, quando listado com `ls -l`, apresente as seguintes características:
+Create a file called `testShell00` in the submission directory that, when listed with `ls -l`, presents the following characteristics:
+- Permissions: `-r--r-xr-x`
+- File name: `testShell00`
+- Size: 40 bytes
 
-- Permissões: `-r--r-xr-x`
-- Nome do ficheiro: `testShell00`
-- Tamanho: 40 bytes
+## Implementation Instructions
 
-## Instruções de Implementação
+1. **Create the file** `testShell00` in the submission directory
 
-1. **Criar o ficheiro** `testShell00` no directório de submissão
-
-2. **Configurar as permissões** para que o resultado de `ls -l` seja:
+2. **Configure the permissions** so that the result of `ls -l` is:
    ```
    -r--r-xr-x 1 XX XX 40 Jun 1 23:42 testShell00
    ```
 
-3. **Verificar o resultado** executando:
+3. **Verify the result** by executing:
    ```bash
    ls -l
    ```
 
-4. **Criar o arquivo de submissão** executando:
+4. **Create the submission file** by executing:
    ```bash
    tar -cf testShell00.tar testShell00
    ```
 
-## Resultado Esperado
+## Expected Result
 
-Ao executar `ls -l`, o resultado deve apresentar:
-- Permissões de leitura para o proprietário (`r--`)
-- Permissões de leitura e execução para o grupo (`r-x`)
-- Permissões de leitura e execução para outros utilizadores (`r-x`)
-- Tamanho do ficheiro: 40 bytes
+When executing `ls -l`, the result should present:
+- Read permissions for the owner (`r--`)
+- Read and execute permissions for the group (`r-x`)
+- Read and execute permissions for other users (`r-x`)
+- File size: 40 bytes
 
-## Entrega
+## Delivery
 
-O ficheiro final a submeter é `testShell00.tar`, criado através do comando `tar` especificado nas instruções.
+The final file to submit is `testShell00.tar`, created through the `tar` command specified in the instructions.
 
-## Notas Técnicas
+## Technical Notes
 
-- As variáveis "XX" no resultado do `ls -l` representam o proprietário e grupo do ficheiro
-- O foco principal está na configuração correcta das permissões e tamanho do ficheiro
-- A data e hora podem variar conforme o momento de criação do ficheiro
+- The "XX" variables in the `ls -l` result represent the file owner and group
+- The main focus is on the correct configuration of permissions and file size
+- The date and time may vary according to the file creation moment

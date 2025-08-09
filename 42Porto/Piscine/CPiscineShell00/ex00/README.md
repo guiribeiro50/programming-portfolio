@@ -1,36 +1,36 @@
-# Exercício 00
+# Exercise 00
 
-## Descrição
+## Description
 
-Este exercício consiste em criar um ficheiro que apresenta um resultado específico quando usado com o comando `cat`.
+This exercise consists of creating a file that presents a specific result when used with the `cat` command.
 
-## Objectivo
+## Objective
 
-Criar um ficheiro chamado `z` que:
-- Retorne "Z" seguido de uma nova linha
-- Produza este resultado quando usado com o comando `cat`
+Create a file called `z` that:
+- Returns "Z" followed by a new line
+- Produces this result when used with the `cat` command
 
-## Instruções de Implementação
+## Implementation Instructions
 
-1. **Criar o ficheiro** `z`
+1. **Create the file** `z`
 
-2. **Configurar o conteúdo** para produzir a saída especificada
+2. **Configure the content** to produce the specified output
 
-3. **Testar** com o comando `cat z`
+3. **Test** with the command `cat z`
 
-## Resultado Esperado
+## Expected Result
 
-Quando executado `cat z`, o resultado deve ser:
+When executing `cat z`, the result should be:
 ```
 Z
 ```
 
-## Entrega
+## Delivery
 
-O ficheiro `z` deve estar presente no repositório com o conteúdo correcto.
+The file `z` must be present in the repository with the correct content.
 
-## Notas Técnicas
+## Technical Notes
 
-- O ficheiro deve conter exactamente "Z" seguido de uma quebra de linha
-- A saída deve ser limpa, sem caracteres adicionais
-- O teste será feito usando o comando `cat` sobre o ficheiro
+- The file must contain exactly "Z" followed by a line break
+- The output should be clean, without additional characters
+- The test will be done using the `cat` command on the file
