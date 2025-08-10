@@ -1,9 +1,10 @@
-# Verificação de Número Perfeito
+# Perfect Number Verification
 
-Este programa determina se um número inteiro é perfeito.
+This program determines whether an integer is perfect.
 
-## Descrição do Problema
+## Problem Description
 
-Um número é considerado perfeito se a soma dos seus divisores próprios (excluindo o próprio número) for igual ao número em si.
+A number is considered perfect if the sum of its proper divisors (excluding the number itself) equals the number.
 
-Exemplo: 28 tem como divisores 1, 2, 4, 7 e 14. A soma desses divisores é 28, logo é um número perfeito.
+Example: 28 has divisors 1, 2, 4, 7, and 14. The sum of these divisors is 28, so it is a perfect number.
+

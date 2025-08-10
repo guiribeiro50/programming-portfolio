@@ -13,6 +13,6 @@ def find_min(lst):
             smallest = lst[i]
     return smallest
 
-# lst = [1, 2, 3, 4, 5]
-# print(find_max(lst))
-# print(find_min(lst))
+lst = [1, 2, 3, 4, 5]
+print(find_max(lst))
+print(find_min(lst))

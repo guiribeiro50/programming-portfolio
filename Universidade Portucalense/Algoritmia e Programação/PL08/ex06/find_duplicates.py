@@ -6,5 +6,5 @@ def find_duplicates(lst):
                 duplicates.append(lst[i])
     return duplicates
 
-# lst = [1, 2, 5, 2, 5]
-# print(find_duplicates(lst))
+lst = [1, 2, 5, 2, 5]
+print(find_duplicates(lst))

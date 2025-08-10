@@ -1,13 +1,14 @@
-## Análise de Ficheiro de Texto
+## Text File Analysis
 
-Este programa analisa o conteúdo do ficheiro `user_text.txt`, contando o número de linhas, palavras e caracteres.
+This program analyzes the content of the file `user_text.txt`, counting the number of lines, words, and characters.
 
-### Objetivo
+### Objective
 
-Implementar a função `analyze_file(filename)` que:
+Implement the function `analyze_file(filename)` which:
 
-- Lê o conteúdo de um ficheiro de texto  
-- Conta o número total de linhas, palavras e caracteres  
-- Exibe os resultados ao utilizador  
+* Reads the content of a text file
+* Counts the total number of lines, words, and characters
+* Displays the results to the user
 
-É incluído um exemplo prático com ficheiro de entrada para validar o funcionamento.
+A practical example with an input file is included to validate the functionality.
+

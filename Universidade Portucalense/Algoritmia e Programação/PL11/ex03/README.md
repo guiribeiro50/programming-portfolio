@@ -1,10 +1,11 @@
-## Gravação de Texto em Ficheiro
+## Writing Text to a File
 
-Este programa permite ao utilizador inserir várias linhas de texto que são gravadas num ficheiro chamado `user_text.txt`.
+This program allows the user to enter multiple lines of text, which are saved in a file called `user_text.txt`.
 
-### Objetivo
+### Objective
 
-Desenvolver um programa que:
+Develop a program that:
 
-- Solicita várias linhas de texto ao utilizador (termina com linha vazia)  
-- Grava o conteúdo num ficheiro chamado `user_text.txt`
+* Prompts the user to input multiple lines of text (ends when an empty line is entered)
+* Saves the content to a file named `user_text.txt`
+

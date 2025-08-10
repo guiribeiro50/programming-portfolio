@@ -1,13 +1,14 @@
-## Contagem Linear de Ocorrências
+## Linear Count of Occurrences
 
-Este programa define uma função que conta o número de vezes que um determinado valor aparece numa lista de inteiros, através de uma pesquisa linear.
+This program defines a function that counts how many times a given value appears in a list of integers through a linear search.
 
-### Objetivo
+### Objective
 
-Implementar a função `linear_search_count(lst, target)` que:
+Implement the function `linear_search_count(lst, target)` which:
 
-- Recebe uma lista `lst` de inteiros e um valor `target`
-- Percorre a lista para contar quantas vezes o `target` aparece
-- Retorna esse número
+* Receives a list `lst` of integers and a value `target`
+* Traverses the list to count how many times `target` appears
+* Returns that count
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

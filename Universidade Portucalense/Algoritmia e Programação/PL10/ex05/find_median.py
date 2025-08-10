@@ -12,5 +12,5 @@ def find_median(numbers):
         median = numbers[(len(numbers) // 2)]
     return median
 
-numbers = [3, 1, 4, 2, 5]
+numbers = [1, 4, 2, 5]
 print(find_median(numbers))

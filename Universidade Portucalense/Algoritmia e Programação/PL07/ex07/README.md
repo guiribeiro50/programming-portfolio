@@ -1,7 +1,8 @@
-# Identificação do Maior Número Ímpar
+# Identification of the Largest Odd Number
 
-Este programa processa uma sequência de inteiros terminada em zero, e determina o maior número ímpar introduzido e a sua posição na sequência.
+This program processes a sequence of integers ending with zero, and determines the largest odd number entered along with its position in the sequence.
 
-## Descrição do Problema
+## Problem Description
 
-O programa lê inteiros até ser introduzido o valor 0. Durante o processo, identifica o maior valor ímpar e indica a sua posição relativa (1ª, 2ª, etc.) na sequência total.
+The program reads integers until the value 0 is entered. During this process, it identifies the largest odd number and indicates its relative position (1st, 2nd, etc.) within the entire sequence.
+

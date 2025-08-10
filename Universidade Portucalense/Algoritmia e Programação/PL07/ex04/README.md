@@ -1,7 +1,8 @@
-# Classificação de Múltiplas Laranjas
+# Classification of Multiple Oranges
 
-Este programa permite introduzir uma sequência de diâmetros de laranjas, classificando cada uma conforme os critérios de volume. A introdução termina quando for inserido o valor 0.
+This program allows the user to enter a sequence of orange diameters, classifying each one according to the volume criteria. The input ends when the value 0 is entered.
 
-## Descrição do Problema
+## Problem Description
 
-Para cada diâmetro inserido, o programa calcula o volume da laranja e classifica-a segundo a mesma tabela usada no exercício anterior. O programa termina quando o utilizador insere “0”.
+For each diameter entered, the program calculates the orange’s volume and classifies it according to the same table used in the previous exercise. The program terminates when the user enters “0.”
+

@@ -1,12 +1,13 @@
-# Inversão da Ordem dos Elementos de uma Lista
+# Reversing the Order of Elements in a List
 
-Este exercício propõe a criação de uma função que inverte a ordem dos elementos de uma lista.
+This exercise proposes creating a function that reverses the order of elements in a list.
 
-## Objetivo
+## Objective
 
-Criar a função `reverse_list(lst)` que:
+Create the function `reverse_list(lst)` which:
 
-- Recebe uma lista `lst`
-- Retorna uma nova lista com os elementos em ordem inversa
+* Receives a list `lst`
+* Returns a new list with the elements in reversed order
 
-Inclui exemplos que demonstram o funcionamento da função com diferentes listas.
+Examples are included to demonstrate the function’s behavior with different lists.
+

@@ -12,5 +12,5 @@ def fibonacci(n):
         lst.append(element)
     return lst
 
-# n = 5
-# print(fibonnaci(n))
+n = 5
+print(fibonacci(n))

@@ -1,10 +1,11 @@
-# Estatísticas de Classificação de Laranjas
+# Orange Classification Statistics
 
-Este programa estende o anterior, fornecendo estatísticas após a classificação de várias laranjas.
+This program extends the previous one, providing statistics after classifying multiple oranges.
 
-## Descrição do Problema
+## Problem Description
 
-Após o processamento de todos os diâmetros, o programa apresenta:
+After processing all the diameters, the program displays:
 
-- A percentagem de laranjas não classificadas
-- O volume médio das laranjas de cada classe (Classe 1 e Classe 2)
+* The percentage of unclassified oranges
+* The average volume of oranges in each class (Class 1 and Class 2)
+

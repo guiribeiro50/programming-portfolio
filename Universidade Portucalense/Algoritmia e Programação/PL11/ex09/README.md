@@ -1,13 +1,14 @@
-## Transposição de Matrizes a partir de Ficheiros
+## Matrix Transposition from Files
 
-Este programa lê uma matriz de um ficheiro de texto, calcula a sua transposta e guarda o resultado num novo ficheiro.
+This program reads a matrix from a text file, computes its transpose, and saves the result in a new file.
 
-### Objetivo
+### Objective
 
-Desenvolver um programa que:
+Develop a program that:
 
-- Lê uma matriz do ficheiro `matrix.txt`  
-- Calcula a transposta dessa matriz  
-- Grava o resultado no ficheiro `transpose.txt`  
+* Reads a matrix from the file `matrix.txt`
+* Calculates the transpose of that matrix
+* Writes the result to the file `transpose.txt`
 
-É incluído um exemplo prático com conteúdo de entrada.
+A practical example with input content is included.
+

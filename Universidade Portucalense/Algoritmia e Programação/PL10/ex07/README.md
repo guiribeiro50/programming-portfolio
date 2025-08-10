@@ -1,13 +1,14 @@
-## Ordenação por Nota
+## Sorting by Score
 
-Este programa define uma função que ordena uma lista de estudantes com base na sua nota, por ordem decrescente.
+This program defines a function that sorts a list of students based on their grade, in descending order.
 
-### Objetivo
+### Objective
 
-Implementar a função `sort_by_score(students)` que:
+Implement the function `sort_by_score(students)` which:
 
-- Recebe uma lista `students` de tuplos (nome, nota)  
-- Ordena os tuplos por ordem decrescente da nota  
-- Retorna a nova lista ordenada  
+* Receives a list `students` of tuples (name, grade)
+* Sorts the tuples in descending order by grade
+* Returns the newly sorted list
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

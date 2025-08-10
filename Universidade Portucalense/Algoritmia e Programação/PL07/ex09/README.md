@@ -1,7 +1,8 @@
-# Soma dos Dígitos de um Número
+# Sum of the Digits of a Number
 
-Este programa calcula a soma dos dígitos que compõem um número inteiro positivo.
+This program calculates the sum of the digits that make up a positive integer.
 
-## Descrição do Problema
+## Problem Description
 
-Dado um número inteiro (ex: 7258), o programa decompõe cada dígito e calcula a soma (7 + 2 + 5 + 8 = 22). O resultado é apresentado ao utilizador.
+Given an integer (e.g., 7258), the program breaks down each digit and calculates the sum (7 + 2 + 5 + 8 = 22). The result is presented to the user.
+

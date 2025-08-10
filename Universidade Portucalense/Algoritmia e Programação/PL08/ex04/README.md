@@ -1,14 +1,16 @@
-# Contagem de Números Pares e Ímpares
+# Counting Even and Odd Numbers
 
-Este programa analisa uma lista de inteiros e calcula quantos valores são pares e quantos são ímpares.
+This program analyzes a list of integers and calculates how many values are even and how many are odd.
 
-## Objetivo
+## Objective
 
-Desenvolver a função `count_even_odd(lst)` que:
+Develop the function `count_even_odd(lst)` which:
 
-- Recebe uma lista `lst` de inteiros
-- Retorna dois valores:
-  - Número de elementos pares
-  - Número de elementos ímpares
+* Receives a list `lst` of integers
+* Returns two values:
 
-A função é testada com listas de exemplo para validar o seu comportamento.
+  * Number of even elements
+  * Number of odd elements
+
+The function is tested with example lists to validate its behavior.
+

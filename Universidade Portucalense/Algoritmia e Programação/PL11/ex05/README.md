@@ -1,13 +1,14 @@
-## Filtragem de Erros em Ficheiros de Log
+## Filtering Errors in Log Files
 
-Este programa processa um ficheiro de log e extrai apenas as linhas que contêm mensagens de erro, gravando-as num novo ficheiro.
+This program processes a log file and extracts only the lines containing error messages, saving them in a new file.
 
-### Objetivo
+### Objective
 
-Implementar a função `filter_errors(input_file, output_file)` que:
+Implement the function `filter_errors(input_file, output_file)` which:
 
-- Lê o conteúdo de um ficheiro de log  
-- Filtra as linhas que contêm `[ERROR]`  
-- Grava apenas essas linhas num novo ficheiro `error_logs.txt`  
+* Reads the content of a log file
+* Filters lines containing `[ERROR]`
+* Writes only those lines to a new file named `error_logs.txt`
 
-É incluído um exemplo prático para verificar os resultados da filtragem.
+A practical example is included to verify the filtering results.
+

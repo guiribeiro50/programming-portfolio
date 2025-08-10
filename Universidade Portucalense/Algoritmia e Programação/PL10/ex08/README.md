@@ -1,13 +1,14 @@
-## Estudantes com Melhor Nota
+## Students with Highest Grade
 
-Este programa define uma função que identifica todos os estudantes com a nota mais alta.
+This program defines a function that identifies all students with the highest grade.
 
-### Objetivo
+### Objective
 
-Implementar a função `top_students(students)` que:
+Implement the function `top_students(students)` which:
 
-- Recebe uma lista `students` de tuplos (nome, nota)  
-- Identifica a maior nota presente na lista  
-- Retorna uma lista com o nome de todos os estudantes que obtiveram essa nota  
+* Receives a list `students` of tuples (name, grade)
+* Identifies the highest grade in the list
+* Returns a list with the names of all students who achieved that grade
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

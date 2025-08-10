@@ -1,8 +1,9 @@
-# Cálculo de Fatorial
+# Factorial Calculation
 
-Este programa calcula o fatorial de um número inteiro positivo.
+This program calculates the factorial of a positive integer.
 
-## Descrição do Problema
+## Problem Description
 
-O fatorial de um número n (representado por n!) é o produto de todos os inteiros positivos de 1 até n.  
-Exemplo: 5! = 5 × 4 × 3 × 2 × 1 = 120
+The factorial of a number n (denoted by n!) is the product of all positive integers from 1 up to n.
+Example: 5! = 5 × 4 × 3 × 2 × 1 = 120
+

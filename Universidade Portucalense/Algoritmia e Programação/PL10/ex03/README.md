@@ -1,13 +1,14 @@
-## Ordenação por Comprimento
+## Sorting by Length
 
-Este programa define uma função que ordena uma lista de strings por ordem crescente do seu comprimento.
+This program defines a function that sorts a list of strings in ascending order based on their length.
 
-### Objetivo
+### Objective
 
-Implementar a função `sort_by_length(lst)` que:
+Implement the function `sort_by_length(lst)` which:
 
-- Recebe uma lista `lst` de strings
-- Ordena os elementos com base no número de caracteres de cada string
-- Modifica a lista original
+* Receives a list `lst` of strings
+* Sorts the elements based on the number of characters in each string
+* Modifies the original list
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

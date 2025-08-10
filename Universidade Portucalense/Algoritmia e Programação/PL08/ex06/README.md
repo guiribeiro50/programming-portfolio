@@ -1,12 +1,13 @@
-# Identificação de Elementos Duplicados
+# Identification of Duplicate Elements
 
-Este programa identifica e retorna todos os elementos que ocorrem mais do que uma vez numa lista.
+This program identifies and returns all elements that occur more than once in a list.
 
-## Objetivo
+## Objective
 
-Implementar a função `find_duplicates(lst)` que:
+Implement the function `find_duplicates(lst)` which:
 
-- Recebe uma lista `lst`
-- Retorna uma nova lista contendo os elementos duplicados, sem repetições
+* Receives a list `lst`
+* Returns a new list containing the duplicated elements, without repetitions
 
-A implementação garante que cada duplicado é listado apenas uma vez. Estão incluídos testes com listas contendo e sem conter duplicados.
+The implementation ensures each duplicate is listed only once. Tests include lists with and without duplicates.
+

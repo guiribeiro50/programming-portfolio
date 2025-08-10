@@ -1,14 +1,15 @@
-## Inversão de Palavras
+## Word Reversal
 
-Este programa define uma função que inverte o conteúdo de cada palavra de uma frase, mantendo a ordem das palavras inalterada.
+This program defines a function that reverses the content of each word in a sentence, keeping the order of the words unchanged.
 
-### Objetivo
+### Objective
 
-Implementar a função `reverse_words(sentence)` que:
+Implement the function `reverse_words(sentence)` which:
 
-- Recebe uma frase como string  
-- Inverte cada palavra individualmente  
-- Mantém a ordem das palavras na frase  
-- Retorna a frase resultante  
+* Receives a sentence as a string
+* Reverses each word individually
+* Maintains the order of the words in the sentence
+* Returns the resulting sentence
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

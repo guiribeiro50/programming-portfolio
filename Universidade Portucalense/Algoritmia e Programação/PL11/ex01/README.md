@@ -1,14 +1,15 @@
-## Contagem e Substituição em Frases
+## Counting and Replacing in Sentences
 
-Este programa define uma função que processa uma frase e realiza três operações: conta o número total de palavras, conta palavras únicas e substitui todas as vogais por asteriscos.
+This program defines a function that processes a sentence and performs three operations: counts the total number of words, counts unique words, and replaces all vowels with asterisks.
 
-### Objetivo
+### Objective
 
-Implementar a função `word_counter(sentence)` que:
+Implement the function `word_counter(sentence)` which:
 
-- Recebe uma frase como string  
-- Conta o número total de palavras  
-- Conta o número de palavras únicas  
-- Retorna a frase modificada com as vogais substituídas por `*`  
+* Receives a sentence as a string
+* Counts the total number of words
+* Counts the number of unique words
+* Returns the modified sentence with vowels replaced by `*`
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

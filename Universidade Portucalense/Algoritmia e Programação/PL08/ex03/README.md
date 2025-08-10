@@ -1,13 +1,14 @@
-# Verificação de Lista Ordenada
+# Check if a List is Sorted
 
-Este programa verifica se os elementos de uma lista estão ordenados por ordem crescente.
+This program checks whether the elements of a list are sorted in ascending order.
 
-## Objetivo
+## Objective
 
-Implementar a função `is_sorted(lst)` que:
+Implement the function `is_sorted(lst)` which:
 
-- Recebe uma lista `lst` de números
-- Retorna `True` se os elementos estiverem ordenados de forma crescente
-- Retorna `False` caso contrário
+* Receives a list `lst` of numbers
+* Returns `True` if the elements are sorted in ascending order
+* Returns `False` otherwise
 
-Exemplos práticos são fornecidos para ilustrar diferentes cenários.
+Practical examples are provided to illustrate different scenarios.
+

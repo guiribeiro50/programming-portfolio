@@ -1,14 +1,15 @@
-## Multiplicação de Matrizes
+## Matrix Multiplication
 
-Este programa permite multiplicar duas matrizes, desde que as suas dimensões sejam compatíveis.
+This program allows the multiplication of two matrices, provided their dimensions are compatible.
 
-### Objetivo
+### Objective
 
-Implementar a função `multiply_matrices(matrix1, matrix2)` que:
+Implement the function `multiply_matrices(matrix1, matrix2)` which:
 
-- Recebe duas matrizes  
-- Verifica a compatibilidade entre as dimensões  
-- Realiza a multiplicação de matrizes  
-- Retorna o resultado da multiplicação  
+* Receives two matrices
+* Checks dimension compatibility
+* Performs matrix multiplication
+* Returns the resulting matrix
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

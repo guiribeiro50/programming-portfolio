@@ -1,17 +1,19 @@
-# Cálculo de Montante com Juros Compostos
+# Compound Interest Amount Calculation
 
-Este programa calcula o montante final de um investimento com juros compostos, de acordo com o número de anos indicado pelo utilizador.
+This program calculates the final amount of an investment with compound interest, based on the number of years provided by the user.
 
-## Descrição do Problema
+## Problem Description
 
-Utiliza-se a fórmula dos juros compostos:
+The compound interest formula is used:
 
 M = P × (1 + r/n) ^ (n × t)
 
-Onde:
-- P é o capital inicial (10 000€)
-- r é a taxa de juro anual (8% ou 0.08)
-- n é o número de capitalizações por ano (12)
-- t é o número de anos (fornecido pelo utilizador)
+Where:
 
-Com estes valores, o programa calcula e apresenta o montante final após o período indicado.
+* P is the initial capital (€10,000)
+* r is the annual interest rate (8% or 0.08)
+* n is the number of compounding periods per year (12)
+* t is the number of years (provided by the user)
+
+Using these values, the program calculates and displays the final amount after the specified period.
+

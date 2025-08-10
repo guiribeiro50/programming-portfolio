@@ -1,0 +1,4 @@
+Python is great.
+Learning Python is fun.
+I enjoy programming.
+Python is versatile.

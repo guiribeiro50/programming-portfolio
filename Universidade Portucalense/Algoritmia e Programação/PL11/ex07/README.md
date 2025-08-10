@@ -1,13 +1,14 @@
-## Soma de Matrizes
+## Matrix Addition
 
-Este programa permite somar duas matrizes de dimensões iguais, inseridas pelo utilizador ou definidas no código.
+This program allows the addition of two matrices of equal dimensions, either input by the user or predefined in the code.
 
-### Objetivo
+### Objective
 
-Implementar a função `add_matrices(matrix1, matrix2)` que:
+Implement the function `add_matrices(matrix1, matrix2)` which:
 
-- Recebe duas matrizes com as mesmas dimensões  
-- Soma os elementos correspondentes  
-- Retorna uma nova matriz com os valores somados  
+* Receives two matrices with the same dimensions
+* Adds the corresponding elements
+* Returns a new matrix with the summed values
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

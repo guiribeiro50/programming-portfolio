@@ -3,9 +3,9 @@ def word_counter(sentence):
     total_words = len(words)
 
     unique_words = []
-    for word in words:
-        if word not in unique_words:
-            unique_words.append(word)
+    for i in range(len(words)):
+        if words[i] not in unique_words:
+            unique_words.append(words[i])
 
     vowels = "aeiouAEIOU"
     for char in sentence:

@@ -1,18 +1,19 @@
-# Geração da Sequência de Fibonacci
+# Fibonacci Sequence Generation
 
-Este programa gera os primeiros `n` números da sequência de Fibonacci.
+This program generates the first `n` numbers of the Fibonacci sequence.
 
-## Objetivo
+## Objective
 
-Criar a função `fibonacci(n)` que:
+Create the function `fibonacci(n)` which:
 
-- Recebe um inteiro `n`
-- Retorna uma lista com os `n` primeiros elementos da sequência de Fibonacci
+* Receives an integer `n`
+* Returns a list with the first `n` elements of the Fibonacci sequence
 
-A sequência segue a fórmula:
+The sequence follows the formula:
 
-F(0) = 0  
-F(1) = 1  
+F(0) = 0
+F(1) = 1
 F(n) = F(n-1) + F(n-2)
 
-A função é testada com diferentes valores de `n`.
+The function is tested with different values of `n`.
+

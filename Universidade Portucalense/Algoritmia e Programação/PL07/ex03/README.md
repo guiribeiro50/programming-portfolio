@@ -1,15 +1,16 @@
-# Classificação de Laranjas por Volume
+# Orange Classification by Volume
 
-Este programa classifica uma laranja com base no seu volume, calculado a partir do diâmetro introduzido pelo utilizador.
+This program classifies an orange based on its volume, calculated from the diameter entered by the user.
 
-## Descrição do Problema
+## Problem Description
 
-Com base na fórmula do volume de uma esfera, o programa determina o tipo da laranja:
+Using the formula for the volume of a sphere, the program determines the orange's classification:
 
-- Volume ≤ 120 cm³ → Não classificada
-- 120 < Volume ≤ 250 cm³ → Classe 1
-- 250 < Volume ≤ 550 cm³ → Classe 2
-- Volume > 550 cm³ → Não classificada
+* Volume ≤ 120 cm³ → Not classified
+* 120 < Volume ≤ 250 cm³ → Class 1
+* 250 < Volume ≤ 550 cm³ → Class 2
+* Volume > 550 cm³ → Not classified
 
-O volume é calculado pela fórmula:  
-V = (4/3) × π × (raio³), onde o raio é metade do diâmetro.
+The volume is calculated using the formula:
+V = (4/3) × π × (radius³), where the radius is half of the diameter.
+

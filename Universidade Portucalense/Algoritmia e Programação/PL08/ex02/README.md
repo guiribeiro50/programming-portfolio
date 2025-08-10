@@ -1,12 +1,12 @@
-# Valor Máximo e Mínimo de uma Lista
+# Maximum and Minimum Value of a List
 
-Este exercício implementa duas funções que identificam, respetivamente, o maior e o menor valor numa lista de números.
+This exercise implements two functions that identify, respectively, the largest and smallest value in a list of numbers.
 
-## Objetivos
+## Objectives
 
-- `find_max(lst)`: retorna o valor máximo presente na lista `lst`
-- `find_min(lst)`: retorna o valor mínimo presente na lista `lst`
+* `find_max(lst)`: returns the maximum value present in the list `lst`
+* `find_min(lst)`: returns the minimum value present in the list `lst`
 
-Ambas as funções assumem que a lista contém pelo menos um elemento numérico.
+Both functions assume that the list contains at least one numeric element.
 
-Estão incluídos exemplos de teste para validação de resultados.
+Test examples are included to validate the results.

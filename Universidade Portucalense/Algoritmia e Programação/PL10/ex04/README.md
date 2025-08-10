@@ -1,13 +1,14 @@
-## Dois Maiores Elementos
+## Two Largest Elements
 
-Este programa define uma função que encontra os dois maiores valores de uma lista de inteiros, numa única passagem pela lista.
+This program defines a function that finds the two largest values in a list of integers in a single pass through the list.
 
-### Objetivo
+### Objective
 
-Implementar a função `find_two_largest(lst)` que:
+Implement the function `find_two_largest(lst)` which:
 
-- Recebe uma lista `lst` de inteiros
-- Identifica os dois maiores valores
-- Retorna os dois valores por ordem decrescente
+* Receives a list `lst` of integers
+* Identifies the two largest values
+* Returns the two values in descending order
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

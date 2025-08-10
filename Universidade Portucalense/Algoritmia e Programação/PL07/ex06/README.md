@@ -1,10 +1,11 @@
-# Análise de Volumes de Laranjas
+# Orange Volume Analysis
 
-Este programa complementa os anteriores com duas métricas adicionais relativas ao volume das laranjas.
+This program complements the previous ones with two additional metrics related to the volume of the oranges.
 
-## Descrição do Problema
+## Problem Description
 
-Para além da percentagem de laranjas não classificadas e das médias por classe, o programa indica:
+In addition to the percentage of unclassified oranges and the averages per class, the program reports:
 
-- O volume da maior laranja introduzida
-- O volume da menor laranja introduzida
+* The volume of the largest orange entered
+* The volume of the smallest orange entered
+

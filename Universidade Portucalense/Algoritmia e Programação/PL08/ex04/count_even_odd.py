@@ -8,5 +8,5 @@ def count_even_odd(lst):
             odd += 1
     return even, odd
 
-# lst = [1, 2, 3, 4, 5]
-# print(count_even_odd(lst))
+lst = [1, 2, 3, 4, 5]
+print(count_even_odd(lst))

@@ -1,13 +1,14 @@
-# Cálculo de Tarifário de Estacionamento
+# Parking Fee Calculation
 
-Este programa calcula o valor a pagar por um utilizador com base no tempo que o veículo permaneceu num parque de estacionamento.
+This program calculates the amount to be paid by a user based on the time the vehicle stayed in a parking lot.
 
-## Descrição do Problema
+## Problem Description
 
-O tarifário é o seguinte:
+The tariff is as follows:
 
-- 1ª hora: 2€
-- 2ª hora: 1,5€
-- A partir da 3ª hora: 1€/hora (ou fração proporcional)
+* 1st hour: €2
+* 2nd hour: €1.5
+* From the 3rd hour onwards: €1 per hour (or proportional fraction)
 
-O tempo de permanência é introduzido em horas e minutos, sendo o total convertido para o valor a pagar.
+The parking duration is entered in hours and minutes, and the total time is converted into the amount to be paid.
+

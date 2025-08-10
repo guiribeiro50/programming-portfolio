@@ -1,13 +1,14 @@
-## Ordenação por Seleção
+## Selection Sort
 
-Este programa define uma função que recebe uma lista de inteiros e ordena os seus elementos por ordem crescente utilizando o algoritmo de seleção (Selection Sort).
+This program defines a function that receives a list of integers and sorts its elements in ascending order using the Selection Sort algorithm.
 
-### Objetivo
+### Objective
 
-Implementar a função `selection_sort(lst)` que:
+Implement the function `selection_sort(lst)` which:
 
-- Recebe uma lista `lst` de números inteiros
-- Ordena os elementos da lista por ordem crescente, sem utilizar o método `sort()`
-- Modifica a lista original
+* Receives a list `lst` of integers
+* Sorts the elements of the list in ascending order without using the `sort()` method
+* Modifies the original list
 
-É incluído um exemplo prático para testar a função e verificar a sua correção. a sua correção.
+A practical example is included to test the function and verify its correctness.
+

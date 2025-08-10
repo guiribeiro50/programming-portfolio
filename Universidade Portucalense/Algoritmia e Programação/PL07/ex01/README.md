@@ -1,14 +1,15 @@
-# Calculadora do Dia de Regresso
+# Return Day Calculator
 
-Este programa calcula o dia da semana em que um utilizador regressa de férias, com base no dia de partida e na duração da estadia em noites.
+This program calculates the day of the week on which a user returns from vacation, based on the departure day and the length of stay in nights.
 
-## Descrição do Problema
+## Problem Description
 
-Considera-se que os dias da semana são numerados de 0 a 6, sendo 0 correspondente a domingo e 6 a sábado. Por exemplo, partindo num dia 3 (quarta-feira) e permanecendo 10 noites ausente, o regresso ocorrerá num sábado (dia 6).
+The days of the week are considered to be numbered from 0 to 6, with 0 corresponding to Sunday and 6 to Saturday. For example, departing on day 3 (Wednesday) and staying away for 10 nights, the return will occur on a Saturday (day 6).
 
-O programa solicita os seguintes dados ao utilizador:
+The program requests the following data from the user:
 
-- O número correspondente ao dia de partida (entre 0 e 6)
-- O número de noites de estadia
+* The number corresponding to the departure day (between 0 and 6)
+* The number of nights of stay
 
-Com base nestes valores, o programa calcula e apresenta o número do dia da semana correspondente ao regresso.
+Based on these values, the program calculates and displays the number of the day of the week corresponding to the return.
+

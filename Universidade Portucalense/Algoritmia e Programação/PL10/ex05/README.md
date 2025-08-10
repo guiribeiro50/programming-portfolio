@@ -1,13 +1,14 @@
-## Mediana de uma Lista
+## Median of a List
 
-Este programa define uma função que calcula a mediana de uma lista de inteiros.
+This program defines a function that calculates the median of a list of integers.
 
-### Objetivo
+### Objective
 
-Implementar a função `find_median(lst)` que:
+Implement the function `find_median(lst)` which:
 
-- Recebe uma lista `lst` de inteiros
-- Ordena a lista internamente
-- Calcula e retorna a mediana, considerando se o número de elementos é par ou ímpar
+* Receives a list `lst` of integers
+* Sorts the list internally
+* Calculates and returns the median, taking into account whether the number of elements is even or odd
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

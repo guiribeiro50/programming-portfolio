@@ -1,13 +1,14 @@
-# Soma dos Elementos de uma Lista
+# Sum of Elements in a List
 
-Este programa define uma função que recebe uma lista de números e retorna a soma de todos os elementos presentes na mesma.
+This program defines a function that receives a list of numbers and returns the sum of all elements in it.
 
-## Objetivo
+## Objective
 
-Implementar a função `sum_list(lst)` que:
+Implement the function `sum_list(lst)` which:
 
-- Recebe uma lista `lst` contendo números inteiros ou decimais
-- Calcula a soma de todos os seus elementos
-- Retorna o valor resultante
+* Receives a list `lst` containing integer or decimal numbers
+* Calculates the sum of all its elements
+* Returns the resulting value
 
-É incluído um exemplo prático para testar a função e verificar a sua correção.
+A practical example is included to test the function and verify its correctness.
+

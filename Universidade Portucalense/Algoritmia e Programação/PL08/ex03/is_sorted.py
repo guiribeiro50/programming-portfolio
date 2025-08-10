@@ -4,5 +4,5 @@ def is_sorted(lst):
             return False
     return True
 
-# lst = [1, 2, 3, 4, 5]
-# print(is_sorted(lst))
+lst = [1, 2, 6, 4, 5]
+print(is_sorted(lst))
