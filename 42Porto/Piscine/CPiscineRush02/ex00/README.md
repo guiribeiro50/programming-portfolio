@@ -1,6 +1,6 @@
 # Exercise 00
 ## Description
-This exercise consists of creating a program that takes a number as argument and converts it to its written letters value.
+This exercise consists of creating a program that takes a number as argument and converts it to its written letters value. This is the commented version of the program.
 ## Objective
 Create a program called `rush-02` that:
 - Takes 1 or 2 arguments (dictionary file and/or number to convert)
