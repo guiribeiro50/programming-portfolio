@@ -148,7 +148,7 @@ def reduction_site(matrix):
     else:
         print(f"Deploy purifier at ({position[0] + 1}, {position[1] + 1})")
 
-#Task 11
+#Task 10
 def find_safe_column(PAM):
     for j in range(len(PAM[0]) - 1, -1, -1):
         is_safe = True
